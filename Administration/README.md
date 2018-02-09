@@ -22,3 +22,8 @@ So I logged into it provided me with connection options of vpns -
 
 L2TP/IPsec was not good for linux, so I chose Openvpn(direct) but it pose the the problem when I downloaded multiple certificates file from the instructions given for Linux(Ubuntu) os, I was using firefox, also I've to configure firefox according the instructions given on streisand.html
 So I selected OpenConnect and followed the instructions given for linux and I was successfully able to connect through vpn.
+
+
+**For the first problem**
+
+We can make the two step protection(two step authetication), firstly I can password protect that file in first step and in second step we can use the google app - 'google authenticator' for which we have to work on generation of QR code, it is very good in stopping of stealing information, the cryptocurrency exchanges too uses this. Also we can add both phone number verification and email-address verification everytime we change the password but this cumbersome in comapare to just scanning QR code and entering 4- digit code.
